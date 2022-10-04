@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Exercicio06 {
+public class Exercicio06L1 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
@@ -34,6 +34,7 @@ public class Exercicio06 {
             resposta = valor01 + (valor01 * 0.1f * parc);
             System.out.println(
                     "Valor R$ " + valor01 + " Dividiu " + parc + " Parcelas, Com acrescimo : Total de R$" + resposta);
+            System.out.println("Obrigado , volte sempre !");
         }
 
         input.close();
