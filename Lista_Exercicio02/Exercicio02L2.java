@@ -7,7 +7,6 @@ public class Exercicio02L2 {
         for (int i = 100; i < 201; i++) {
             if ((i % 2) != 0) {
 
-                System.out.println("thomas");
                 System.out.println("Os números ímpares são" + i);
 
                 input.close();
