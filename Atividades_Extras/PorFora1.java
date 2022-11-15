@@ -37,7 +37,7 @@ public class PorFora1 {
 
         resultado = (idade * diasnoanos) + (mes * diasnomes) + (dias);
 
-        System.out.println("Quantidade de dias na data de nascimento " + resultado);
+        System.out.println("Quantidade de minutos na sua da de nascimento" + resultado);
 
         input.close();
 

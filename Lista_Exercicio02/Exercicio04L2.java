@@ -6,6 +6,10 @@ public class Exercicio04L2 {
 
         // tabuada
         int numero;
+        String nome;
+
+        System.out.println("Qual seu nome ?");
+        nome = input.nextLine();
 
         System.out.println("Digite o numero");
         numero = input.nextInt();
@@ -16,8 +20,9 @@ public class Exercicio04L2 {
             // 12 x 1 = 12 exemplo
             for (int i = 1; i < 11; i++) {
                 System.out.println(numero + " x " + i + " = " + numero * i);
-                input.close();
             }
+            System.out.println("Olá " + nome + " Tabuada de " + numero);
+            input.close();
 
         }
     }

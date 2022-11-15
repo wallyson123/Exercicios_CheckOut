@@ -19,7 +19,7 @@ public class Exercicio05L2 {
         for (int alto = 1; alto <= numeros; alto++) {
             // espacos entre eles
             for (int espacos = 1; espacos <= numeros - alto; espacos++) {
-                System.out.print("");
+                System.out.print(" ");
             }
             for (int asteriscos = 1; asteriscos <= (alto * 2) - 1; asteriscos++) {
                 System.out.print("*");
