@@ -286,6 +286,8 @@ public class Lista01AllOne {
         System.out.println("Divisão : " + (tipo1 / tipo2));
         linharesposta();
 
+        pronuncia();
+
         input.close();
     }
 }

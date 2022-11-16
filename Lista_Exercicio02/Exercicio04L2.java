@@ -21,7 +21,6 @@ public class Exercicio04L2 {
             for (int i = 1; i < 11; i++) {
                 System.out.println(numero + " x " + i + " = " + numero * i);
             }
-            System.out.println("Olá " + nome + " Tabuada de " + numero);
             input.close();
 
         }
