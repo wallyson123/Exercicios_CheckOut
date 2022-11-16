@@ -30,7 +30,3 @@
 <p align="center">
   <a href="https://www.buymeacoffee.com/walissonsoares" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 </p>
-
-![parte1](https://user-images.githubusercontent.com/26144781/202244421-45a5284a-198d-4eaf-8192-5ae95ba830b2.png)
-![parte2](https://user-images.githubusercontent.com/26144781/202244427-7cf12ab1-6d7c-404a-87e2-f79ea65ea8c0.png)
-
