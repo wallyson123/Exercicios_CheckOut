@@ -3,6 +3,8 @@
 ##  Hellooo Helloo World! 👋 
   
   ##  Lista Exercicios Thomas 01 - Updated All In One ! 👋 
+  ##  Lista Exercicios Thomas 02 - Updated All In One ! 👋 
+  ##  Lista Exercicios Thomas 03 - Updated All In One ! 👋 
 
 </span>
 
