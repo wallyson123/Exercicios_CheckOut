@@ -7,7 +7,7 @@
 </span>
 
 <p align="center">
-  I'm an <strong>Icamiaba</strong> in tech!<br />
+  I'm an <strong>experience</strong> in tech!<br />
 </p>
 
 <p align="center">
