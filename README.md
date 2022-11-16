@@ -2,14 +2,12 @@
 
 ##  Hellooo Helloo World! 👋 
   
-  ##  Lista Exercicios Thomas! 👋 
+  ##  Lista Exercicios Thomas 01 - Updated All In One ! 👋 
 
 </span>
+![parte1](https://user-images.githubusercontent.com/26144781/202243612-cc5793f7-823a-4bc4-a572-88c90642b6a5.png)
+![parte2](https://user-images.githubusercontent.com/26144781/202243614-c806c82c-9e07-4974-9c64-d443c3ca4861.png)
 
-
-<div align="center">
-<img src="" width="700px" />
-</div>
 
 <p align="center">
   I'm an <strong>Icamiaba</strong> in tech!<br />
