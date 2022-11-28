@@ -3,17 +3,17 @@ import java.util.Scanner;
 
 public class Crud {
     public static void linhas() {
-        System.out.println(" --------------------------------------- ");
+        System.out.println("    --------------------------------------- ");
     }
     public static void Alunos() {
-        System.out.println(" ---------Lista de Alunos Atualizada-------- ");
+        System.out.println("  ---------Lista de Alunos Atualizada-------- ");
     }
 
     public static void main(String[] args) {
         
         ArrayList<String> nomes = new ArrayList<String>();
         ArrayList<Integer> idades = new ArrayList<Integer>();
-        ArrayList<String> faculdades = new ArrayList<String>();\
+        ArrayList<String> faculdades = new ArrayList<String>();
 
         Scanner input = new Scanner(System.in);
 
@@ -33,13 +33,15 @@ public class Crud {
 
             System.out.println("Apenas numeros - 1 , 2 , 3 , 4 , 5 , 6 ! Presta atenção tabacudo");
             Alunos();
-            System.out.println("" + nomes);
+            for (int j = 0; j < nomes.size(); j++) {
+                System.out.println((j + 1) + " - " + nomes.get(j));
+            }
             linhas();
             int opcao = input.nextInt();
 
             while (opcao > 6 || opcao < 1) {
                 System.out.println("Opção inválida!");
-                System.out.print("Escolha um número entre 1 e 4: ");
+                System.out.print("Escolha um número entre 1 e 6: ");
                 opcao = input.nextInt();
             }
             // CREATE
@@ -86,13 +88,14 @@ public class Crud {
                         String faculdadeBusca = faculdades.get(i);
                         System.out.println("\033[33m       --- Faculdade Cadastrada ---" );
                         System.out.println("-------------->> "+faculdadeBusca);
-                        break;
                     }
                 }
             } else if (opcao == 3) {
                 linhas();
                 Alunos();
-                System.out.println(nomes);
+                for (int j = 0; j < nomes.size(); j++) {
+                    System.out.println((j + 1) + " - " + nomes.get(j));
+                }
                 linhas();
 
 
